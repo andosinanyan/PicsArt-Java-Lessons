@@ -1,0 +1,34 @@
+aner,car,Toyota,5,true,4,SUV,4.6,true,150000
+admin,car,Nissan,4,true,4,sedan,3.1,true,78000
+aner,car,Porsche,4,false,4,sport,7.2,false,25000
+andosinanyan,car,Hundai,5,true,4,SUV,4.6,true,18000
+admin,car,Mitusbishi,4,true,4,sedan,3.1,true,98700
+admin,car,Lexus,4,true,4,SUV,7.2,false,19570
+admin,car,Vrangler,4,true,4,jeep,7.2,false,45000
+aner,moto,Kawasaki,2,true,2,utility,universal joint,true,20000,ambulance
+admin,moto,Yamaha,2,true,2,sport,chain,false,15000,240
+admin,moto,BMW,2,true,2,sport,chain,true,20000,190
+aner,moto,Yamaha,2,true,2,sport,universal joint,false,15000,240
+admin,truck,Mercedes-Benz Atego,3,false,4,carTransporterTruck,4,95000
+admin,truck,10CBM,2,false,6,cementMixerTruck,450.8,79000,15.20
+aner,truck,Wielton,2,false,8,trailerTruck,1500,120000
+admin,truck,DOOSAN DX340LCA,2,false,8,trailerTruck,1500,120000
+admin,truck,Peterbilt,3,false,8,towTruck,4000,180000
+aner,car,Toyota,4,true,4,SUV,4.6,false,20000,
+aner,car,New Car,4,true,4,jeep,9.5,true,1000,
+aner,car,Toyota,6,true,4,SUV,4.6,true,98000,
+test,car,new car,4,true,6,SUV,4.6,true,5000,
+test,car,camery,4,true,2,SUV,16.3,true,6000,
+test,car,Mitsubishi,6,true,5,jeep,15.2,true,6000,
+noruser,moto,Kawakasi,5,false,2,sport,chain 15,false,180,95000
+noruser,moto,Yamaha,5,true,2,utility,chain,false,9800,Embulance,
+aner,truck,Kamaz,3,false,6,cementMixerTruck,98.6,15000,63.2,
+aner,truck,Kamaz,3,false,6,trailerTruck,198.0,15000,15000.0,
+aner,truck,Kamaz,6,false,6,trailerTruck,1578.1,547000,547000.0,
+aner,truck,Maz,2,false,4,cementMixerTruck,157.6,68000,312.0,
+newuser1111,car,Camery,4,false,4,sedan,4.36,true,9800,
+newuser1111,moto,Name,4,true,4,sport,chain,true,98000,280,
+newuser1111,car,Car,6,true,14,SUV,2.0,true,18000,
+newuser1111,moto,Name,5,false,2,sport,,true,98000,7855,
+newuser1111,truck,Նամե,5,false,3,cementMixerTruck,157.0,187000,12475.0,
+newuser1111,truck,Նամե,5,false,5,trailerTruck,154.0,15882,

@@ -1,0 +1,69 @@
+vehicles file's guid
+
+
+owner = admin(1)[0]
+type of vehicle = car(2)[1]
+name = Toyota(3)[2]
+seats count = 5(4)[3]
+passenger = true(5)[4]
+wheel count = 4(6)[5]
+
+For Cars:                                        For Motos:
+
+
+specified type = SUV(7)[6]                      specified type = sport/utility(7)[6]
+horsepower = 4,6(8)[7]                          gearType = unversal joint/chain(8)[7]
+gearbox = true(9)[8]                            isGearBoxAutomate = true/false(9),[8]
+cost = 150000(10)[9]                            cost = 12000(10)[9]
+                                                if(sport) = highSpeed(Int), if(utility) = jobFunctionality(String) (11)[10]\
+
+
+For Trucks:
+
+specified type = carTransporterTruck,towTruck,cementMixerTruck,trailerTruck(7)[6];
+maxSizes = 5Cars(int),15.1kg(double),87kg(double),15.1(double)(8)[7];
+cost = 157896(9)[8];
+if(cementTruck) maxSpeedOfMixing = double(10)[9];
+
+
+
+
+
+
+ObjectsAndServices.Car Info :
+
+The owner is : admin
+The name is : Toyota
+The seats count is: 6
+Is it for passengers: yes/no
+The count of wheels : 4
+ObjectsAndServices.Car type is : SUV/Jeep/Sedan/Sport
+Horsepower = 4,6
+Gearbox is : automate/ manual
+The cost of car is : 1500000
+
+ObjectsAndServices.Moto Info :
+
+The owner is : admin
+The name is : Toyota
+The seats count is: 6
+Is it for passengers: yes/no
+The count of wheels : 4
+ObjectsAndServices.Moto type is : Utility/Sport
+Geartype : unversal joint/chain
+Gearbox is : automate/ manual
+(Sport) Has highSpeed : 220 // Job Functionality is :
+
+
+
+ObjectsAndServices.Truck Info
+
+The owner is : admin
+The name is : Toyota
+The seats count is: 6
+Is it for passengers: yes/no
+The count of wheels : 4
+ObjectsAndServices.Truck type is : CementMixer,Tow,Trailer,CarTransporter
+maxsize individual;
+if(cementMixer) Max Speed :
+The cost of this truck is
